@@ -54,7 +54,7 @@ title: First page
   comment: Page content
   tagName: ion-content
   ↓UseSharedComponent [mobile.components.UIUseShared-1606215787739]: 
-    sharedcomponent: lib_SAML.MobileApplication.Application.SAMLLogin
+    sharedcomponent: lib_SAML_ui.MobileApplication.Application.SAMLLogin
   ↓TextFormat [mobile.components.UIDynamicElement-1606216298177]: 
     beanData: '{"ionBean":"TextFormat","TextCenter":"plain:text-center"}'
     tagName: div
@@ -76,7 +76,7 @@ title: First page
           attrValue: 
             - xmlizable: 
               - ↑classname: com.twinsoft.convertigo.beans.mobile.components.MobileSmartSourceType
-              - MobileSmartSourceType: plain:https://github.com/convertigo/c8oprj-lib-saml#lib_saml
+              - MobileSmartSourceType: plain:https://github.com/convertigo/c8oprj-lib-saml-ui#lib_saml_ui
         ↓Attr1 [mobile.components.UIAttribute-1606216233380]: 
           attrName: target
           attrValue: 
@@ -88,7 +88,7 @@ title: First page
           textValue: 
             - xmlizable: 
               - ↑classname: com.twinsoft.convertigo.beans.mobile.components.MobileSmartSourceType
-              - MobileSmartSourceType: plain:https://github.com/convertigo/c8oprj-lib-saml#lib_saml
+              - MobileSmartSourceType: plain:https://github.com/convertigo/c8oprj-lib-saml-ui#lib_saml_ui
       ↓Text1 [mobile.components.UIText-1606216132841]: 
         i18n: false
         textValue: 
