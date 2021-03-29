@@ -4,7 +4,6 @@
   corsOrigin: =Origin
   version: 1.0
   ↓void [connectors.SqlConnector]: 🗏 connectors/void.yaml
-  ↓UrlMapper [core.UrlMapper]: 🗏 urlMapper.yaml
   ↓Project_reference [references.ProjectSchemaReference]: 
     projectName: mobilebuilder_tpl_7_9_0=https://github.com/convertigo/c8oprj-mobilebuilder-tpl/archive/mobilebuilder_tpl_7_9_0.zip
   ↓Project_reference1 [references.ProjectSchemaReference]: 
